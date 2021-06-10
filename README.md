@@ -17,31 +17,28 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
-Support
--------
+About the App
+---------------
+ * To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
+ * News Block is a Pet Data Storage app.
+ * It stores User Pet Data in the SQLite database.
+ * The apps performs all the CRUD operations on the data.
+ * The apps also allows multiple delete options.
+ * The app also makes use of Content Providers for data sharing and security add ons over user data.
+ * The user can add dummy data for reference purposes.
+ * The app also uses CursorLoader Class for efficient use of resources.
 
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
+Screenshots
+---------------
+![Webp net-resizeimage (0)](https://user-images.githubusercontent.com/79413577/121547338-af647b80-ca29-11eb-959b-1b05a9e97545.jpg)
+![Webp net-resizeimage (1)](https://user-images.githubusercontent.com/79413577/121547348-affd1200-ca29-11eb-8f4a-7d72d4a3d0b9.jpg)
+![Webp net-resizeimage (2)](https://user-images.githubusercontent.com/79413577/121547350-b095a880-ca29-11eb-8da7-fc0b149b1a85.jpg)
+![Webp net-resizeimage (3)](https://user-images.githubusercontent.com/79413577/121547354-b12e3f00-ca29-11eb-8e7e-7582d8b8f576.jpg)
+![Webp net-resizeimage (4)](https://user-images.githubusercontent.com/79413577/121547357-b1c6d580-ca29-11eb-8b3f-ffdeffe867f9.jpg)
+![Webp net-resizeimage (5)](https://user-images.githubusercontent.com/79413577/121547360-b1c6d580-ca29-11eb-8aa1-c15d46451d55.jpg)
+![Webp net-resizeimage (6)](https://user-images.githubusercontent.com/79413577/121547363-b25f6c00-ca29-11eb-8721-de8ee6d03c34.jpg)
 
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
 
-License
--------
 
-Copyright 2016 The Android Open Source Project, Inc.
 
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the NOTICE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
 
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
