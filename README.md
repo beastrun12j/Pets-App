@@ -19,7 +19,7 @@ This sample uses the Gradle build system. To build this project, use the
 About the App
 ---------------
  * To build this project, use the "gradlew build" command or use "Import Project" in Android Studio.
- * News Block is a Pet Data Storage app.
+ * Pets App is a Pet Data Storage app.
  * It stores User Pet Data in the SQLite database.
  * The apps performs all the CRUD operations on the data.
  * The apps also allows multiple delete options.
